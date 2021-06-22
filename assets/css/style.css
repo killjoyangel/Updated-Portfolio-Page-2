@@ -1,0 +1,172 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  position: relative;
+  font-family: "Goudy Bookletter 1911", sans-serif;
+  font-size: 20px;
+  background: white;
+}
+header{
+background-color:00FFFF;
+}
+
+
+main {
+  padding:10px;
+}
+
+
+img.center {
+  display: block;
+  margin: 0 auto;
+  background-color:00FFFF ;
+}
+
+
+/*changed font family and alignment*/
+.nav{
+  color:white;
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  background-color: #25dbe8;
+  justify-content:center;
+  align-items:center;  
+  text-align: center;
+}
+
+/*added container*/
+/*display:flex; align-items:center; justify-content: center;*/
+.container {
+  position: relative;
+}
+
+/*added logo*/
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+  }
+
+
+/*added container aside*/
+.container aside {
+  max-width: 80%;
+  margin:20px 300px;
+  background:white;
+  color:  #25dbe8;
+  border: 1 solid white;
+}
+
+.container aside h2 {
+  text-align: center;
+}
+
+/* added display, align, and justify*/
+
+img .collage{
+  border: 1px solid 00FFFF;
+}
+
+p {
+  font-size: 17px;
+}
+
+.pictures {
+  flex: 0 0 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+aside .card {
+  border-style: solid;
+  border-width: 1px;
+  padding: 10px;
+  flex: 0 0 0px;
+  word-wrap: break-word;
+}
+
+
+
+.KD{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+
+
+
+/*added project id
+#project {
+  position: center;
+  top: 900px;
+  right: 100px;
+  font-size: 18px;
+  text-align: center;
+}*/
+
+h1,
+h2 {
+  margin: 20px;
+}
+
+li {
+  display: inline;
+  padding: 20px;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fdf8f5;
+}
+
+/*made some changes to the footer */
+footer {
+  color:white;
+  font-family: time;
+  display: flex;
+  background-color: #25dbe8;
+  position: sticky;
+  height: 50px;
+  width: 100%;
+  justify-content:center;
+  align-items:center;  
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 300px;
+}
+
+
+.row {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+@media screen and (max-width 992px){
+  #abme{
+    width: 50%;
+
+  }
+
+  @media screen and (max-width 768px){
+ #abme{
+      width: 50%;
+  
+    }
+
+    @media only screen and (max-width: 767px) {
+      html {
+         background-image: url(smaller-image.jpg);
+      }
+    }

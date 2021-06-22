@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+/*centered logo*/
+
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+/*made some color changes to the bootstrap*/
+
+p {
+    color: #00e6e6;
+}
+
+h1, h2 {
+    margin: 20px;
+}
+
+li {
+    display: inline;
+    padding: 20px;
+    text-decoration: none;
+}
+
+.card-title {
+    color: #00cccc;
+}
+
+.card-link {
+    color: #25dbe8;
+    text-align: center;
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+    color: #fdf8f5;
+}
+
+/* used same footer settings*/
+
+footer {
+    color: white;
+    font-family: time;
+    display: flex;
+    background-color: #25dbe8;
+    position: sticky;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+/*added media quieries*/
+
+@media all and (min-width: 1024px) and (max-width: 1280px) {}
+
+@media all and (min-width: 768px) and (max-width: 1024px) {}
+
+@media all and (min-width: 480px) and (max-width: 768px) {}
+
+@media all and (max-width: 480px) {}

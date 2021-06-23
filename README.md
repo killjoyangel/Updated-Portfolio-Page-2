@@ -3,9 +3,9 @@
 
 In this activity I've made a 3rd and final update to my  portfolio that I had started from scratch to showcase my  working skills and talents. For any potential employers that come across my portfolio looking to fill a position. I have provided the following information to my portfolio: The developer's name, a recent photo, and links to sections about myself and my work, and how to contact myself.
 
-You can view my portfolio by following this link
-:[Portfolio 3rd update] (https://killjoyangel.github.io/02-Advanced-CSS-Portfolio/
-)
+You can view my portfolio by following this link:
+
+[Killjoy Designs: Personal Portfolio update #3](https://killjoyangel.github.io/Updated-Portfolio-Page-2/index.html)
 
 Attempted to make lots of commits and pushed to github. 
 
@@ -24,7 +24,7 @@ Also took plenty of notes of my changes in both the html and CSS
 ### Original CSS
 ![Screenshot](./assets/images/csssh.JPG)
 <br>
-<br>git 
+<br> 
 
 ### Original HTML
 ![Screenshot](./assets/images/htmlsh.JPG)

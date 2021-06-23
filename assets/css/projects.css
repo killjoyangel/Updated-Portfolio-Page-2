@@ -2,11 +2,26 @@
     box-sizing: border-box;
 }
 
+.header{
+    color:white;
+    font-size: 30px;
+    display: flex;
+    background-color: #25dbe8;
+    position: sticky;
+    height: 50px;
+    width: 100%;
+    justify-content:center;
+    align-items:center;  
+ 
+   }
 /*centered logo*/
 
-img.center {
-    display: block;
-    margin: 0 auto;
+.quote {
+    flex: 0 0 0px;
+    padding: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 /*made some color changes to the bootstrap*/
@@ -48,7 +63,7 @@ footer {
     display: flex;
     background-color: #25dbe8;
     position: sticky;
-    font-size: 20px;
+    font-size: 30px;
     height: 60px;
     width: 100%;
     justify-content: center;
@@ -64,3 +79,15 @@ footer {
 @media all and (min-width: 480px) and (max-width: 768px) {}
 
 @media all and (max-width: 480px) {}
+
+
+
+
+
+
+
+
+
+
+
+

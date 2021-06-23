@@ -1,9 +1,10 @@
 # 02-Advanced-CSS-Portfolio # My First portfolio
 ## Introduction:
 
-In this activity we made portfolios from scratch to showcase our working skills and talents for potential employers looking to fill a position. Providing a developer's name, a recent photo, and links to sections about myself and my work, and how to contact myself.
+In this activity I've made a 3rd and final update to my  portfolio that I had started from scratch to showcase my  working skills and talents. For any potential employers that come across my portfolio looking to fill a position. I have provided the following information to my portfolio: The developer's name, a recent photo, and links to sections about myself and my work, and how to contact myself.
 
-We created a static website that you can view on this link:[02-Advanced-CSS-Portfolio # My first portfolio] (https://killjoyangel.github.io/02-Advanced-CSS-Portfolio/
+You can view my portfolio by following this link
+:[Portfolio 3rd update] (https://killjoyangel.github.io/02-Advanced-CSS-Portfolio/
 )
 
 Attempted to make lots of commits and pushed to github. 
@@ -11,25 +12,41 @@ Attempted to make lots of commits and pushed to github.
 ## Technologies used:
 * HTML
 * CSS
-## Screen shots of wireframe, html and CSS
+* Bootstrap
+<br>
+<br>
 
-Also took plenty of notes of my changes in both the html and Css
+### Screen shots of wireframe, html and CSS
+Also took plenty of notes of my changes in both the html and CSS
+<br>
+<br>
 
 ### Original CSS
 ![Screenshot](./assets/images/csssh.JPG)
+<br>
+<br>git 
 
 ### Original HTML
 ![Screenshot](./assets/images/htmlsh.JPG)
 
-### Portfolio Logo
-![logo](./assets/images/main2smaller.jpg)
+<br>
+<br>
+
+# The evolution of my portfolio
 
 ### Original Portfolio fullpage screenshot
 ![fullpage](./assets/images/fullpage.png)
 
-### Updated Portfolio full page screenshot
+### first update  Portfolio full page screenshot
 
 ![fullpage](./assets/images/newfullpage.png)
+
+### Final update to current portfolio
+![fullpage](./assets/images/finalindex.png)
+![fullpage](./assets/images/finalaboutme.png)
+![fullpage](./assets/images/finalgallery.png)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
